@@ -27,3 +27,5 @@ clone项目
 注意：这里用了很多css3，并不支持低版本ie。目前只自测过chrome。为了保护个人隐私，这里在展示的时候用的是网名，打印时候显示真实名字。
 ## License
 CC BY 4.0  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+借鉴：https://github.com/eternityspring/eternityspring.github.io
